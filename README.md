@@ -2,6 +2,8 @@
 
 A lightweight full-stack financial ledger for the Bytex Challenge: add, view, and categorize income/expenses, see a live summary, get notified on notable events, and use two human-designed twists that go beyond boilerplate AI output.
 
+**Live demo:** [https://bytex-ledger.vercel.app/](https://bytex-ledger.vercel.app/)
+
 **UI:** dark “Command Center” shell (sidebar navigation, glass cards, Sora / Hanken Grotesk).
 
 ## Features
@@ -147,14 +149,9 @@ Descriptions are scored against a merchant/intent lexicon. When the implied cate
 
 ## Screenshots / demo
 
-> Add screenshots or a short GIF here before submitting (Home / ledger, Contradiction Guard flag, Cashflow Replay scrubber, Notifications log).
+![Bytex Ledger Command Center](src/public/app.png)
 
-Suggested captures:
-
-1. Home — summary cards + new entry form  
-2. Ledger row with Contradiction Guard + Accept suggestion  
-3. Cashflow Replay mid-scrub  
-4. Notifications log after a test send  
+**Live demo:** [https://bytex-ledger.vercel.app/](https://bytex-ledger.vercel.app/)
 
 ---
 
